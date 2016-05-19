@@ -1,0 +1,160 @@
+1:
+    x: 769
+    y: 17
+    z: 100
+    color: R
+    type: Small
+
+2:
+    x: 363
+    y: 828
+    z: 100
+    color: R
+    type: Small
+
+3:
+    x: 804
+    y: 188
+    z: 100
+    color: G
+    type: Small
+
+4:
+    x: 468
+    y: 766
+    z: 100
+    color: B
+    type: Small
+
+5:
+    x: 723
+    y: 272
+    z: 100
+    color: G
+    type: Small
+
+6:
+    x: 501
+    y: 188
+    z: 100
+    color: R
+    type: Small
+
+7:
+    x: 41
+    y: 925
+    z: 100
+    color: B
+    type: Small
+
+8:
+    x: 181
+    y: 217
+    z: 100
+    color: G
+    type: Small
+
+9:
+    x: 233
+    y: 598
+    z: 100
+    color: B
+    type: Small
+
+10:
+    x: 51
+    y: 548
+    z: 100
+    color: R
+    type: Small
+
+11:
+    x: 202
+    y: 175
+    z: 100
+    color: Nan
+    type: Accelerating
+
+12:
+    x: 270
+    y: 414
+    z: 100
+    color: Nan
+    type: Accelerating
+
+13:
+    x: 250
+    y: 599
+    z: 100
+    color: Nan
+    type: Accelerating
+
+14:
+    x: 710
+    y: 580
+    z: 100
+    color: Nan
+    type: Accelerating
+
+15:
+    x: 298
+    y: 334
+    z: 100
+    color: Nan
+    type: Accelerating
+
+16:
+    x: 513
+    y: 66
+    z: 100
+    color: Nan
+    type: Accelerating
+
+17:
+    x: 674
+    y: 171
+    z: 100
+    color: Nan
+    type: Accelerating
+
+18:
+    x: 884
+    y: 791
+    z: 100
+    color: Nan
+    type: Accelerating
+
+19:
+    x: 883
+    y: 773
+    z: 100
+    color: Nan
+    type: Accelerating
+
+20:
+    x: 609
+    y: 759
+    z: 100
+    color: Nan
+    type: Accelerating
+
+21:
+    x: 333
+    y: 234
+    z: 100
+    color: Nan
+    type: Large
+
+22:
+    x: 935
+    y: 679
+    z: 100
+    color: Nan
+    type: Large
+
+23:
+    x: 803
+    y: 521
+    z: 100
+    color: Nan
+    type: Large
